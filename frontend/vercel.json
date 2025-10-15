@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://YOUR-BACKEND-PROJECT.vercel.app/api/$1" }
+    { "source": "/api/(.*)", "destination": "https://split-rupee-five.vercel.app/api/$1" }
   ]
 }
