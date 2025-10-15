@@ -1,0 +1,20 @@
+/* spacing */
+.form-group { margin-bottom: 14px; }
+.form-group input, .form-group select { padding: 10px 12px; margin-top: 6px; }
+
+/* tables */
+.table { width:100%; border-collapse: collapse; }
+.table th, .table td { padding: 10px 12px; border-bottom: 1px solid #e5e7eb; text-align: left; }
+.table thead th { background: #f8fafc; font-weight: 600; }
+
+/* buttons */
+.btn { padding: 8px 12px; border:1px solid #e5e7eb; border-radius:8px; background:#fff; cursor:pointer; }
+.btn:hover { background:#f3f4f6; }
+.btn-primary { background:#2563eb; border-color:#2563eb; color:#fff; }
+.btn-primary:hover { background:#1d4ed8; }
+
+/* layout tweaks for panels */
+.panel { margin-bottom: 16px; }
+
+/* inputs inside invite link */
+.invite-link input { padding: 8px 10px; }
